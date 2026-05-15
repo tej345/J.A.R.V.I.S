@@ -1,4 +1,5 @@
 J.A.R.V.I.S.
+
 J.A.R.V.I.S. is an intelligent, privacy-isolated "Second Brain" platform designed for students to seamlessly ingest, organize, and query their academic universe. By combining a decoupled microservices architecture with an advanced Retrieval-Augmented Generation (RAG) pipeline, J.A.R.V.I.S. synthesizes unstructured contextual data—including dense PDFs, lecture slides, screenshots, and synchronized emails—into a unified, low-latency semantic search and conversational interface.
 
 🚀 Key Features & Architectural Highlights
